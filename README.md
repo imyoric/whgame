@@ -18,3 +18,5 @@
 **-Attention! English is not supported by the program!**
 
 **//~~-Versions up to Pre-beta 1.4.3.02 can be found at thms.gq**
+
+**Sorry, but I'm too lazy to translate the entire instruction)**
