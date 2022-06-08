@@ -20,6 +20,14 @@
 > 
 > use php\gui\UXApplication; //Доп. Класс
 
+#### **Потоки**
+
+**Создать поток:**
+
+> (new Thread(function (){  
+> //Тут код
+> }))->start(); //Запуск потока
+
 ## **EN: **
 
 **-Must use Java JRE 8!**
