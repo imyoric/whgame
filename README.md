@@ -90,6 +90,10 @@
 
 > echo "Ваше сообщение \n"; //Для вывода сообщений в консоль, \n - это символ переноса строки.
 
+**Так же вам стоит почитать про JPHP чтобы понимать что к чему.**
+
+[(https://github.com/jphp-group/jphp/tree/master/jphp-runtime/api-docs)]
+
 ## **EN: **
 
 **-Must use Java JRE 8!**
