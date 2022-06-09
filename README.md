@@ -12,14 +12,12 @@
 
 #### **Портирование классов USE;**
 **Для начала нам надо портировать все необходимые классы:**
-> use app\modules\whapi; //Класс WHAPI
-> 
-> use php\lang\Thread; //Класс для создания потоков, пожалуйста используйте потоки.
-> 
-> use Exception; //Доп. класс
-> 
-> use php\gui\UXApplication; //Доп. Класс
-
+```php
+ use app\modules\whapi; //Класс WHAPI
+ use php\lang\Thread; //Класс для создания потоков, пожалуйста используйте потоки.
+ use Exception; //Доп. класс
+ use php\gui\UXApplication; //Доп. Класс
+```
 #### **Потоки**
 
 **Создать поток:**
